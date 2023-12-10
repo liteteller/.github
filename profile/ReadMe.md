@@ -2,17 +2,17 @@
 
 ## About
 
-Creating a more accountable financial future. Coming soon.
+Liteteller is transforming digital payment systems.
 
 ## Stay Updated
 
-Follow us for the latest updates and be the first to know when we launch!
+Follow us on social media.
 
 - [Instagram](https://www.instagram.com/liteteller/)
 - [Twitter](https://twitter.com/liteteller/)
+- [Facebook](https://www.facebook.com/litetellerfb)
 
-Or [fill out](https://docs.google.com/forms/d/1_9M9eYdgyQ2IvwLHWys7m6Su2bu2LHmkvSj_aGZPwm4) the form to receive email notifications for our launch.
-
+  
 ## License
 
 Licensed under the MIT License.
